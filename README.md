@@ -2,7 +2,7 @@
 
 This repo holds the code for the implementation in my FloydHub article on GRU:
 
-[Link to article]()
+[Link to article](https://blog.floydhub.com/gru-with-pytorch/)
 
 The notebook containing the walkthrough is *main.ipynb*
 
